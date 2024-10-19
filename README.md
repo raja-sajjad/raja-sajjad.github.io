@@ -17,7 +17,7 @@
             background-color: #007BFF;
             color: white;
         }
-        .content {
+        main {
             max-width: 600px;
             margin: auto;
             background: white;
@@ -41,12 +41,12 @@
     <h1>Welcome to Dr. John Smith's Practice</h1>
 </header>
 
-<div class="content">
+<main>
     <h2>About Dr. John Smith</h2>
     <p>Dr. John Smith is a board-certified physician specializing in family medicine. With over 15 years of experience, he is dedicated to providing comprehensive healthcare to patients of all ages.</p>
 
     <h2>Education & Credentials</h2>
-    <p>Dr. Smith graduated from the Harvard Medical School and completed his residency at the Johns Hopkins Hospital. He is a member of the American Academy of Family Physicians.</p>
+    <p>Dr. Smith graduated from Harvard Medical School and completed his residency at Johns Hopkins Hospital. He is a member of the American Academy of Family Physicians.</p>
 
     <h2>Services Offered</h2>
     <ul>
@@ -58,9 +58,9 @@
 
     <h2>Contact Information</h2>
     <p>If you would like to schedule an appointment or have any questions, please contact us:</p>
-    <p>Email: info@drjohnsmith.com</p>
-    <p>Phone: (123) 456-7890</p>
-</div>
+    <p>Email: <a href="mailto:info@drjohnsmith.com">info@drjohnsmith.com</a></p>
+    <p>Phone: <a href="tel:+11234567890">(123) 456-7890</a></p>
+</main>
 
 <footer>
     <p>&copy; 2024 Dr. John Smith. All rights reserved.</p>
