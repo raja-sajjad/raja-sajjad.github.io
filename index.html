@@ -24,6 +24,12 @@
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex; /* Use flexbox for layout */
+            align-items: flex-start; /* Align items at the start */
+        }
+        .content img {
+            max-width: 150px; /* Set a max width for the image */
+            margin-right: 20px; /* Space between image and text */
         }
         h2 {
             color: #007BFF;
@@ -42,26 +48,29 @@
 </header>
 
 <div class="content">
-    <h2>About Dr. Sajjad Ahmad</h2>
-    <p>Dr. Sajjad Ahmad is a general surgeon based in Abbottabad, Pakistan. With extensive experience in the field, he is dedicated to providing high-quality surgical care to his patients.</p>
+    <img src="sajjad_raja.jpg" alt="Dr. Sajjad Ahmad"> <!-- Adjusted image path -->
+    <div>
+        <h2>About Dr. Sajjad Ahmad</h2>
+        <p>Dr. Sajjad Ahmad is a general surgeon based in Abbottabad, Pakistan. With extensive experience in the field, he is dedicated to providing high-quality surgical care to his patients.</p>
 
-    <h2>Education & Credentials</h2>
-    <p>MBBS: Khyber Medical University (KMU)</p>
-    <p>Assistant Professor: Ayub Medical College</p>
-    <p>Professor: Abbottabad Medical College</p>
+        <h2>Education & Credentials</h2>
+        <p>MBBS: Khyber Medical University (KMU)</p>
+        <p>Assistant Professor: Ayub Medical College</p>
+        <p>Professor: Abbottabad Medical College</p>
 
-    <h2>Services Offered</h2>
-    <ul>
-        <li>General Surgery</li>
-        <li>Laparoscopic Surgery</li>
-        <li>Surgical Consultations</li>
-        <li>Emergency Surgical Care</li>
-    </ul>
+        <h2>Services Offered</h2>
+        <ul>
+            <li>General Surgery</li>
+            <li>Laparoscopic Surgery</li>
+            <li>Surgical Consultations</li>
+            <li>Emergency Surgical Care</li>
+        </ul>
 
-    <h2>Contact Information</h2>
-    <p>If you would like to schedule an appointment or have any questions, please contact us:</p>
-    <p>Email: <a href="mailto:info@drsajjadahmad.com">info@drsajjadahmad.com</a></p>
-    <p>Phone: <a href="tel:+1234567890">+(123) 456-7890</a></p>
+        <h2>Contact Information</h2>
+        <p>If you would like to schedule an appointment or have any questions, please contact us:</p>
+        <p>Email: <a href="mailto:info@drsajjadahmad.com">info@drsajjadahmad.com</a></p>
+        <p>Phone: <a href="tel:+1234567890">+(123) 456-7890</a></p>
+    </div>
 </div>
 
 <footer>
