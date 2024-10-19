@@ -1,22 +1,26 @@
-# Welcome to Dr. John Smith's Practice
+# Welcome to Dr. Sajjad Ahmad's Practice
 
-## About Dr. John Smith
-Dr. John Smith is a board-certified physician specializing in family medicine. With over 15 years of experience, he is dedicated to providing comprehensive healthcare to patients of all ages.
+![Dr. Sajjad Ahmad](https://example.com/path/to/image.jpg) <!-- Replace with actual image URL -->
+
+## About Dr. Sajjad Ahmad
+Dr. Sajjad Ahmad is a general surgeon based in Abbottabad, Pakistan. With extensive experience in the field, he is dedicated to providing high-quality surgical care to his patients.
 
 ## Education & Credentials
-Dr. Smith graduated from Harvard Medical School and completed his residency at Johns Hopkins Hospital. He is a member of the American Academy of Family Physicians.
+- **MBBS**: Khyber Medical University (KMU)
+- **Assistant Professor**: Ayub Medical College
+- **Professor**: Abbottabad Medical College
 
 ## Services Offered
-- Annual Check-Ups
-- Preventive Care
-- Chronic Disease Management
-- Pediatric Care
+- General Surgery
+- Laparoscopic Surgery
+- Surgical Consultations
+- Emergency Surgical Care
 
 ## Contact Information
 If you would like to schedule an appointment or have any questions, please contact us:
-- Email: [info@drjohnsmith.com](mailto:info@drjohnsmith.com)
-- Phone: [+(123) 456-7890](tel:+11234567890)
+- Email: [info@drsajjadahmad.com](mailto:info@drsajjadahmad.com) <!-- Replace with actual email -->
+- Phone: [+(123) 456-7890](tel:+11234567890) <!-- Replace with actual phone number -->
 
 ---
 
-&copy; 2024 Dr. John Smith. All rights reserved.
+&copy; 2024 Dr. Sajjad Ahmad. All rights reserved.
