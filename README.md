@@ -1,6 +1,5 @@
 # Welcome to Dr. Sajjad Ahmad's Practice
 
-![Dr. Sajjad Ahmad](https://example.com/path/to/image.jpg) <!-- Replace with actual image URL -->
 
 ## About Dr. Sajjad Ahmad
 Dr. Sajjad Ahmad is a general surgeon based in Abbottabad, Pakistan. With extensive experience in the field, he is dedicated to providing high-quality surgical care to his patients.
