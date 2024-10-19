@@ -18,7 +18,7 @@ Dr. Sajjad Ahmad is a general surgeon based in Abbottabad, Pakistan. With extens
 ## Contact Information
 If you would like to schedule an appointment or have any questions, please contact us:
 - Email: [info@drsajjadahmad.com](mailto:info@drsajjadahmad.com) <!-- Replace with actual email -->
-- Phone: [+(123) 456-7890](tel:+11234567890) <!-- Replace with actual phone number -->
+- Phone: [+(92) 321-9804704] <!-- Replace with actual phone number -->
 
 ---
 
